@@ -1,0 +1,18 @@
+{
+  "option_operagx_version": "0.0.0.2",
+  "option_operagx_next_version": "0.0.0.3",
+  "option_operagx_game_name": "Maze Game",
+  "option_operagx_interpolate_pixels": true,
+  "option_operagx_scale": 0,
+  "option_operagx_texture_page": "2048x2048",
+  "option_operagx_display_cursor": true,
+  "option_operagx_guid": "7c803f0a-fa3b-4698-bea9-43ef861913ef",
+  "option_operagx_team_name": "(d93da4fa-7ab4-443d-87b9-2a0b8b14a6ce) studio",
+  "option_operagx_editUrl": "https://dc.gxc.gg/home/games/game/7c803f0a-fa3b-4698-bea9-43ef861913ef/edit",
+  "option_operagx_internalShareUrl": "https://gxc.gg/game/7c803f0a-fa3b-4698-bea9-43ef861913ef?track=c83af472-c7f1-4e0e-9069-ee7c4edbad2c",
+  "option_operagx_publicShareUrl": "",
+  "resourceVersion": "1.0",
+  "name": "operagx",
+  "tags": [],
+  "resourceType": "GMOperaGXOptions",
+}
